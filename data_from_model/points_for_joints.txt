@@ -1,0 +1,45 @@
+45 deg 1st leg
+0.04348706704
+0.173487067
+0.025
+
+30 deg 1st leg
+0.02625
+0.1754663337
+0.025
+
+15 deg 1st leg
+0.006858704695
+0.1555970344
+0.025
+
+0 deg 1st leg
+far
+0
+0.1515
+0.025
+close
+0
+0.1345
+0.025
+
+btw two body origins
+0.554
+
+dist btw bridge holdings
+0.06
+
+dist btw gap legs
+0.13
+
+dist origin bridge center
+0.277
+
+dist origin 1 bridge hole
+0.247
+
+dist origin 2 bridge hole
+0.307
+
+full body robot size
+636.8193803
