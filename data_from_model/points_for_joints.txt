@@ -1,26 +1,26 @@
 45 deg 1st leg
-0.04348706704
-0.173487067
+0.04631549417
+0.1763154942
 0
 
 30 deg 1st leg
-0.02625
-0.1754663337
+0.02825
+0.1789304353
 0
 
 15 deg 1st leg
-0.006858704695
-0.1555970344
+0.007893980876
+0.1594607377
 0
 
 0 deg 1st leg
 far
 0
-0.1515
+0.1555
 0
 close
 0
-0.1345
+0.1385
 0
 
 leg_width_half
@@ -47,4 +47,5 @@ dist origin 2 bridge hole
 full body robot size
 636.8193803
 
-
+dist btw neighbor legs
+0.106
